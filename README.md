@@ -26,7 +26,7 @@ I am especially interested in roles and opportunities where deep domain expertis
 
 ## Selected products
 
-### MCQ Exam Builder
+### [MCQ Exam Builder](https://github.com/christosdvm/mcq-exam-builder)
 
 A privacy-conscious exam-generation tool for educators who need to import, validate, review, shuffle, and export multiple MCQ exam versions from inconsistent question-bank formats.
 
@@ -36,7 +36,7 @@ A privacy-conscious exam-generation tool for educators who need to import, valid
 
 **Engineering themes:** multi-format parsing, validation rules, reproducible randomisation, answer-key generation, DOCX/XLSX handling, educator UX, privacy-by-design.
 
-**Status:** deployed and under active release-quality review before public source release.
+**Status:** public portfolio repository with a live deployment and CI-backed verification.
 
 ---
 
@@ -128,21 +128,6 @@ I am interested in software that becomes useful infrastructure for expert work â
 - Builder of academic, assessment, and clinical workflow tools
 
 This background gives me direct exposure to complex workflows that are still manual, fragmented, under-automated, or poorly served by generic software.
-
----
-
-## Career direction
-
-I am building toward senior applied opportunities in:
-
-- AI product development
-- Workflow automation
-- Health-tech, veterinary-tech, and education-tech
-- Technical product management
-- Applied software engineering for expert professional workflows
-- Founder-led SaaS product development
-
-I am not positioning myself as a generic developer. I am positioning myself as a domain expert who can identify valuable professional problems, design credible product workflows, and ship practical software to solve them.
 
 ---
 
