@@ -1,12 +1,12 @@
 # Dr. Christos I. Karagiannis
 
-### Veterinary Specialist · Academic Leader · Product Builder
+### Veterinary Specialist · Assistant Professor · Product Builder
 
 **Applied AI · Workflow Automation · Veterinary Education · Privacy-Conscious Software**
 
 I build practical digital products around problems I encounter in real professional environments — from assessment and academic operations to clinical communication and competency tracking.
 
-My background combines **veterinary specialist practice, university teaching and programme leadership, product thinking, and hands-on software development**. I am particularly interested in the point where deep domain expertise meets automation, AI and well-designed software.
+My background combines **veterinary specialist practice, university teaching and programme coordination, product thinking, and hands-on software development**. I am particularly interested in the point where deep domain expertise meets automation, AI and well-designed software.
 
 > **Current direction:** building production-oriented tools for expert professional workflows in health, veterinary medicine and education.
 
@@ -17,7 +17,7 @@ My background combines **veterinary specialist practice, university teaching and
 🩺 **Domain expertise**  
 Veterinary medicine, behavioural medicine, animal welfare and clinical workflows.
 
-🎓 **Academic leadership**  
+🎓 **Academic & programme experience**  
 Curriculum design, assessment, programme coordination, competency-based education and quality assurance.
 
 🧩 **Product thinking**  
