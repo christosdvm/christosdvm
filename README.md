@@ -36,7 +36,7 @@ A privacy-conscious exam-generation tool for educators who need to import, valid
 
 **Engineering themes:** multi-format parsing, validation rules, reproducible randomisation, answer-key generation, DOCX/XLSX handling, educator UX, privacy-by-design.
 
-**Status:** public portfolio repository with a live deployment and CI-backed verification.
+**Status:** public portfolio repository with a live deployment and automated CI.
 
 ---
 
