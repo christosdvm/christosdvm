@@ -1,6 +1,6 @@
 # Dr. Christos I. Karagiannis
 
-### Veterinary Specialist · Academic Programme Lead · Product Builder
+### Veterinary Specialist · Academic Programme Coordinator · Product Builder
 
 **Applied AI · Workflow Automation · Veterinary Education · Privacy-Conscious Professional Software**
 
